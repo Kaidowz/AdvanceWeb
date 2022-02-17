@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: georgia;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+p {
+  border-style: double;
+  padding: 10px;
+}
