@@ -1,2 +1,3 @@
-let x = "Rafael Osorio";
-console.log('My name is '+x);
+let e = "Rafael Osorio";
+
+document.getElementById("let").innerHTML = ('My name is '+e);

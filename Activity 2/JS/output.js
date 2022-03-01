@@ -1,1 +1,1 @@
-console.log('Hi my name is Rafael Osorio');
+document.getElementById("output").innerHTML = 20 + 4;

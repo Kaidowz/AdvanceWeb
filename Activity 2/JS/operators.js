@@ -1,18 +1,7 @@
-let x = 80;
-let y = 20;
-let a = x + y;
-let b = x - y;
-let c = x * y;
-let d = x / y;
+let f = 80;
+let g = 20;
+let h = f * g;
 
-console.log('The value of x is : '+x);
-console.log('The value of y is : '+y);
-console.log();
-console.log('The addition of x and y is '+a);
-console.log();
-console.log('The subtraction of x and y is '+b);
-console.log();
-console.log('The multiplication of x and y is '+c);
-console.log();
-console.log('The division of x and y is '+d);
-console.log();
+document.getElementById("f").innerHTML = ('The value of x is '+f);
+document.getElementById("g").innerHTML = ('The value of y is '+g);
+document.getElementById("operators").innerHTML = ('The multiplication of x and y is '+h);

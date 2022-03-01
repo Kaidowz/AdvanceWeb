@@ -1,6 +1,3 @@
-const city = "Ozamiz";
-console.log(city);
-console.log();
+const city = "Rafael is from Ozamiz City";
 
-city = "Davao"; // Returns TypeError
-console.log(city);
+document.getElementById("const").innerHTML = city;
