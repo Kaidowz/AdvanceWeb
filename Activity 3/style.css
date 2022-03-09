@@ -1,0 +1,13 @@
+h2 {
+    width: 700px;
+    background-color: darkslategray;
+    color: white;
+    font-family: 'Segoe UI';
+}
+p {
+    font-family: 'Trebuchet MS';
+}
+
+body {
+    background-color: skyblue;
+}
